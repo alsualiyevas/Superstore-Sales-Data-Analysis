@@ -52,3 +52,5 @@ The goal is to uncover sales trends, customer behavior, and unprofitable orders.
 
 ### Sales vs Profit by Region
 ![Sales vs Profit by Region](images/salesvsprofit_byregion.png)
+### Anomaly Customers — Discount vs Profit
+![Anomaly Customers](images/anomaly_customers.png)
